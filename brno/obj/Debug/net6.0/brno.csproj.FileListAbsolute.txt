@@ -1,0 +1,15 @@
+/Users/fedormoiseev/Projects/brno/brno/bin/Debug/net6.0/brno
+/Users/fedormoiseev/Projects/brno/brno/bin/Debug/net6.0/brno.deps.json
+/Users/fedormoiseev/Projects/brno/brno/bin/Debug/net6.0/brno.runtimeconfig.json
+/Users/fedormoiseev/Projects/brno/brno/bin/Debug/net6.0/brno.dll
+/Users/fedormoiseev/Projects/brno/brno/bin/Debug/net6.0/brno.pdb
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.csproj.AssemblyReference.cache
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.AssemblyInfoInputs.cache
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.AssemblyInfo.cs
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.csproj.CoreCompileInputs.cache
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.dll
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/refint/brno.dll
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.pdb
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/brno.genruntimeconfig.cache
+/Users/fedormoiseev/Projects/brno/brno/obj/Debug/net6.0/ref/brno.dll
